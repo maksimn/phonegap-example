@@ -12,14 +12,21 @@
 
 Исходный код на HTML / CSS / JS, файлы от phonegap:
 
+https://github.com/maksimn/phonegap-example/tree/master/reversi
+
 #### Пакеты приложений на GitHub
 
 Мобильное приложение расположено здесь: 
+https://github.com/maksimn/phonegap-example/tree/master/reversi/platforms/android/apk
 
 #### Скриншоты
 
 Приложение, работающее в эмуляторе:
+https://raw.githubusercontent.com/maksimn/phonegap-example/master/screenshots/Screenshot%20(14).png
+https://raw.githubusercontent.com/maksimn/phonegap-example/master/screenshots/Screenshot%20(29).png
 
 На реальном мобильном устройстве:
-
+https://raw.githubusercontent.com/maksimn/phonegap-example/master/screenshots/Screenshot_2016-07-25-07-49-21.png
+https://raw.githubusercontent.com/maksimn/phonegap-example/master/screenshots/Screenshot_2016-07-25-07-51-37.png
+https://raw.githubusercontent.com/maksimn/phonegap-example/master/screenshots/Screenshot_2016-07-27-00-25-41.png
 
