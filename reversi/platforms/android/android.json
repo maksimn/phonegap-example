@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-indexedDB": {
+            "PACKAGE_NAME": "io.github.maksimn.reversi"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/cordova-plugin-indexedDB/www/IndexedDBShim.min.js",
+            "id": "cordova-plugin-indexedDB.IndexedDBShim",
+            "runs": true
+        }
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-indexedDB": "0.1.4"
+    }
+}

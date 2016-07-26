@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.github.maksimn.reversi" version="1.0.0">
+    <name>Reversi</name>
+    <description>
+        Reversi Game
+    </description>
+    <author email="maksim1989sovunion@yandex.ru" href="http://maksimn.github.io">
+        Maxim Ivanov
+    </author>
+    <engine name="android" spec="~5.1.1" />
+</widget>
